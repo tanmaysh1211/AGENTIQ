@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+agentiq
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files/folders
+.tmp/
+tmp/
+
+# Node modules
+node_modules/
+agentiq-frontend/node_modules/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
