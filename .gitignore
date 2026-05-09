@@ -17,6 +17,7 @@ tmp/
 # Node modules
 node_modules/
 agentiq-frontend/node_modules/
+.next/
 
 # OS/editor files
 .DS_Store
